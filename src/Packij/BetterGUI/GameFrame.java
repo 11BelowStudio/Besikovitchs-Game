@@ -232,7 +232,5 @@ public class GameFrame extends JFrame {
         return gameState;
     }
 
-    public static void main(String args[]){
-        GameFrame game = new GameFrame();
-    }
+    //public static void main(String args[]){ GameFrame game = new GameFrame(); }
 }
